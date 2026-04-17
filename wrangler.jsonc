@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "flipova-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "flipova-api-db",
+			"database_id": "e3ceb6cf-5851-4125-b663-ef5278b386c6"
+		}
+	]
+}
